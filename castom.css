@@ -8,3 +8,8 @@
     background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)), url(z.jpg);
     background-size: 100% 100%;
 }
+.rain{
+    height:100vh;
+    background-image: url(rain_PNG13460.png);
+    animation: rain_PNG13460 .3s linear infinite;
+}
