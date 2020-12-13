@@ -13,3 +13,7 @@
     background-image: url(rain_PNG13460.png);
     animation: rain_PNG13460 .3s linear infinite;
 }
+@keyframes rain_PNG13460{
+    from{background-position: 0% 0% ;}
+    to{background-position: 100% 100% ;}
+    }
